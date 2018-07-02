@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b4151d7-db56-4cf9-a08d-d7445cfc3360" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Samsung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +33,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="iPhone.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="iPhone.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/iPhone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Samsung.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Samsung.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
               <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
@@ -59,10 +68,11 @@
       <list>
         <option value="$PROJECT_DIR$/src/Phone.java" />
         <option value="$PROJECT_DIR$/src/iPhone.java" />
+        <option value="$PROJECT_DIR$/src/Samsung.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="6" />
     <option name="width" value="1030" />
     <option name="height" value="1032" />
@@ -229,6 +239,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/iPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Samsung.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
